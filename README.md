@@ -1,5 +1,5 @@
 # Show You
-This repository contains the show you program which is an exercise of *tkinter* and opencv with *Python*.
+This repository contains the show you program which is an exercise of *pyQt5* and opencv with *Python*.
 
 In this program, I would like to realize several functions
 
